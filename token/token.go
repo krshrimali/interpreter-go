@@ -28,11 +28,23 @@ const (
   SLASH = "/"
   LT = "<"
   GT = ">"
+  TRUE = "true"
+  FALSE = "false"
+  IF = "if"
+  ELSE = "if"
+  RETURN = "return"
+  EQ = "=="
+  NOT_EQ = "!="
 )
 
 var keywords = map[string]TokenType {
   "fn": FUNCTION,
   "let": LET,
+  "if": IF,
+  "else": ELSE,
+  "return": RETURN,
+  "true": TRUE,
+  "false": FALSE,
 }
 
 func LookupIdent(ident string) TokenType {
