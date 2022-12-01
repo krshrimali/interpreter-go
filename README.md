@@ -11,10 +11,10 @@ Just the code while I was reading the book: Writing an Interpreter in Go.
     * [x] 1.4 - Extending our Token Set and Lexer
     * [x] 1.5 - Start of a REPL
 * [ ] 2 Parsing
-    * [ ] 2.1 - Parsers
-    * [ ] 2.2 - Why not a parser generator?
-* [ ] 2.3 - Writing a Parser for the Monkey Programming Language
-    * [ ] 2.4 - Parser’s first steps: parsing let statements
+    * [x] 2.1 - Parsers
+    * [x] 2.2 - Why not a parser generator?
+    * [x] 2.3 - Writing a Parser for the Monkey Programming Language
+    * [x] 2.4 - Parser’s first steps: parsing let statements
     * [ ] 2.5 - Parsing Return Statements
     * [ ] 2.6 - Parsing Expressions
     * [ ] Expressions in Monkey
