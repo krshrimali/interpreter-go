@@ -15,7 +15,7 @@ Just the code while I was reading the book: Writing an Interpreter in Go.
     * [x] 2.2 - Why not a parser generator?
     * [x] 2.3 - Writing a Parser for the Monkey Programming Language
     * [x] 2.4 - Parser’s first steps: parsing let statements
-    * [ ] 2.5 - Parsing Return Statements
+    * [x] 2.5 - Parsing Return Statements
     * [ ] 2.6 - Parsing Expressions
     * [ ] Expressions in Monkey
     * [ ] Top Down Operator Precedence (or: Pratt Parsing)
