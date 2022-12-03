@@ -16,7 +16,7 @@ Just the code while I was reading the book: Writing an Interpreter in Go.
     * [x] 2.3 - Writing a Parser for the Monkey Programming Language
     * [x] 2.4 - Parser’s first steps: parsing let statements
     * [x] 2.5 - Parsing Return Statements
-    * [ ] 2.6 - Parsing Expressions
+    * [x] 2.6 - Parsing Expressions
     * [x] Expressions in Monkey
     * [x] Top Down Operator Precedence (or: Pratt Parsing)
     * [x] Terminology
@@ -25,7 +25,7 @@ Just the code while I was reading the book: Writing an Interpreter in Go.
     * [x] Identifiers
     * [x] Integer Literals
     * [x] Prefix Operators
-    * [ ] Infix Operators
+    * [x] Infix Operators
     * [ ] 2.7 - How Pratt Parsing Works
     * [ ] 2.8 - Extending the Parser
     * [ ] Boolean Literals
