@@ -17,14 +17,14 @@ Just the code while I was reading the book: Writing an Interpreter in Go.
     * [x] 2.4 - Parser’s first steps: parsing let statements
     * [x] 2.5 - Parsing Return Statements
     * [ ] 2.6 - Parsing Expressions
-    * [ ] Expressions in Monkey
-    * [ ] Top Down Operator Precedence (or: Pratt Parsing)
-    * [ ] Terminology
-    * [ ] Preparing the AST
-    * [ ] Implementing the Pratt Parser
-    * [ ] Identifiers
-    * [ ] Integer Literals
-    * [ ] Prefix Operators
+    * [x] Expressions in Monkey
+    * [x] Top Down Operator Precedence (or: Pratt Parsing)
+    * [x] Terminology
+    * [x] Preparing the AST
+    * [x] Implementing the Pratt Parser
+    * [x] Identifiers
+    * [x] Integer Literals
+    * [x] Prefix Operators
     * [ ] Infix Operators
     * [ ] 2.7 - How Pratt Parsing Works
     * [ ] 2.8 - Extending the Parser
