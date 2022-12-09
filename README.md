@@ -26,10 +26,10 @@ Just the code while I was reading the book: Writing an Interpreter in Go.
     * [x] Integer Literals
     * [x] Prefix Operators
     * [x] Infix Operators
-    * [ ] 2.7 - How Pratt Parsing Works
-    * [ ] 2.8 - Extending the Parser
-    * [ ] Boolean Literals
-    * [ ] Grouped Expressions
+    * [x] 2.7 - How Pratt Parsing Works
+    * [x] 2.8 - Extending the Parser
+    * [x] Boolean Literals
+    * [x] Grouped Expressions
     * [ ] If Expressions
     * [ ] Function Literals
     * [ ] Call Expressions
